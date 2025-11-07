@@ -1,6 +1,6 @@
 grocery_item = "Grilled Chicken Salad"
-
-
+length_of_item = len(length_of_item)
+grocery_item = len()
 
 
 # Testing
